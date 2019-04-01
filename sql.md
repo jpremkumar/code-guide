@@ -22,3 +22,5 @@
 * Avoid use of subqueries in WHERE clause
 * Check headers for SQL file, like Mention Author, Created Date, Description and Test Scripts as comments at the beginning of a stored procedure
 * Use CONVERT() instead of CAST()
+
+> [Basics of T-SQL Coding Practise](https://www.red-gate.com/simple-talk/sql/t-sql-programming/basics-good-t-sql-coding-style/)
